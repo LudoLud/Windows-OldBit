@@ -1,0 +1,44 @@
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\bin\Release\Windows OldBit.exe.config
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\bin\Release\Windows OldBit.exe
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\bin\Release\Windows OldBit.pdb
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\bin\Release\Windows OldBit.xml
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.vbprojAssemblyReference.cache
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__GER_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__GER_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__usa_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__usa_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__CHS_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__CHS_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__CHT_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__CHT_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__KOR_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__KOR_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__es_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__es_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__fr_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__fr_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__hu_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__hu_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__it_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__it_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__JPN_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__JPN_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Langue.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Resources.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__nl_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__nl_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__pl_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__pl_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__pt_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__pt_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__ru_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__ru_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__sv_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__sv_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.Menu__cs_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows_OldBit.OTVDM__cs_.resources
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.vbproj.GenerateResource.cache
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.vbproj.CoreCompileInputs.cache
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.exe
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.xml
+C:\Users\Famille Goulet\Desktop\Windows OldBit\Windows OldBit\obj\Release\Windows OldBit.pdb
