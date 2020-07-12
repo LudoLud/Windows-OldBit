@@ -14,5 +14,5 @@ Installation instruction (make sure secure boot is disabled):
 9. Select "Hide the console (otvdmw.exe)" and "Install Microsoft Visual C ++ Redistributable Update 3 RC".
 10. Install WineVDM. Accept UAC twice.
 11. Close the WineVDM window and go to your hard drive (C: \). Open the "OTVDM" folder and double click on install.reg. Accept the UAC and click Yes. Then OK.
-12. Start the installation of NTVDMx64.
+12. Start the installation of NTVDMx64 and wait the end.
 13. Restart!
